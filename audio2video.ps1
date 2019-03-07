@@ -7,10 +7,10 @@
       Optionally, the user can also specify the audio extension (default '.mp3') which he wants to convert and also the video extension (default '.mp4')
       for the output video file.
     .EXAMPLE
-        >> Windows
-        powershell -executionpolicy bypass -File .\audio2video.ps1 -dir "C:\Users\Kintoki\Music" -img "C:\Users\Kintoki\Pictures\testpattern.png" -vid_preset "C:\Users\Kintoki\Documents\video_preset.json"
-        >> Linux
-        pwsh audio2video.ps1 -dir "/path/to/Kintoki/Music" -img "/path/to/Kintoki/Pictures/testpattern.png" -vid_preset "/path/to/Kintoki/Documents/video_preset.json" -audio_ext '.wav' -video_ext '.flv'
+      >> Windows
+      powershell -executionpolicy bypass -File .\audio2video.ps1 -dir "C:\Users\Kintoki\Music" -img "C:\Users\Kintoki\Pictures\testpattern.png" -vid_preset "C:\Users\Kintoki\Documents\video_preset.json"
+      >> Linux
+      pwsh audio2video.ps1 -dir "/path/to/Kintoki/Music" -img "/path/to/Kintoki/Pictures/testpattern.png" -vid_preset "/path/to/Kintoki/Documents/video_preset.json" -audio_ext '.wav' -video_ext '.flv'
     .NOTES
       This script was made with the intention to make it easier to upload music to YouTube (which only accepts video files).
     .CREDITS
