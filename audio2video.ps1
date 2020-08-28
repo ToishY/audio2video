@@ -14,8 +14,8 @@
     .NOTES
       This script was made with the intention to make it easier to upload music to YouTube (which only accepts video files).
     .CREDITS
-      Made by:        ToishY
-      Github:         https://github.com/ToishY/audio2video
+      Made by:        ToshY
+      Github:         https://github.com/ToshY/audio2video
       Last modified:  7-3-2019 03:03
 #>
 
